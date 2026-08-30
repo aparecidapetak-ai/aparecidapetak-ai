@@ -3,7 +3,7 @@
 - 🧑‍💻 Focado em ![Python](https://shields.io), ![HTML5](https://shields.io) e ![CSS3](https://shields.io) ...
 
 - 🤔 Preparando-se para o mercado de tecnologia ...
-- 💬 Contato: aparecida.petak@gmail.
+- 💬 Contato: aparecida.petak@gmail.com
 
 
 
