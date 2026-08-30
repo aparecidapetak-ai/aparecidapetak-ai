@@ -3,5 +3,11 @@
 - 👯 Focado em Python, HTML e CSS ...
 - 🤔 Preparando-se para o mercado de tecnologia ...
 - 💬 Contato: aparecida.petak@gmail.
-- 
+- ![Python](https://shields.io)
+- ![HTML5](https://shields.io)
+- ![CSS3](https://shields.io)
+
+
+
+
 
